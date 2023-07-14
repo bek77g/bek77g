@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello there!&height=100&section=header" alt="Hello there!"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20there!&height=100&section=header" alt="Hello there!"/>
 </p>
 <h1 align="center">It's me, Beknur Zheenkulov on GitHub!✨</h1>
 <h3 align="center">My name is Beknur and I am a Front-end developer.</h3>
