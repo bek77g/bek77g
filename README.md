@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" title="Random gradient after page reload (～￣▽￣)～">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20there!&height=100&section=header" alt="Hello there!"/>
 </p>
 <h1 align="center">It's me, Beknur Zheenkulov on GitHub!✨</h1>
