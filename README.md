@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/beknur-zheenkulov" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="beknur-zheenkulov | LinkedIn" height="26" width="26" /></a>
 <a href="https://t.me/XeLLiAn0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="XeLLiAn0 | Telegram" height="26" width="26" /></a>
 <a href="https://discordapp.com/users/736174100048773160" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="kibernetik_ | Discord" height="26" width="26" /></a>
+<a href="https://www.instagram.com/_j_beknur_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="kibernetik_ | Discord" height="26" width="26" /></a>
 <a href="mailto:d.zheenkul@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="d.zheenkul@gmail.com | Gmail" height="26" width="26" /></a>
 </p>
 
