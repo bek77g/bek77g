@@ -6,8 +6,8 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+      # every 11 hours
+    - cron: "0 11 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@master
+      - uses: Platane/snk@main
         id: snake-gif
         with:
           github_user_name: bek77g
