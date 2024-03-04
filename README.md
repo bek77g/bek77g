@@ -71,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
@@ -83,11 +83,11 @@
 
 <details>
     <summary><h3>📊 Stats</h3></summary>
-    <img align="left" width="39.5%" src="https://github-readme-stats-bek77g.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,css&theme=buefy" alt="bek77g | Languages" style="padding-right: 0"/>
-    <img align="center" width="58%" src="https://github-readme-stats-bek77g.vercel.app/api?show_bg=1&username=bek77g&count_private=true&include_all_commits=true&hide=stars&theme=buefy" alt="bek77g | Stats" />
+    <img align="center" width="336" src="https://github-readme-stats-bek77g.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,css,scss&theme=buefy" alt="« bek77g | Languages »" style="padding-right: 0"/>
+    <img align="center" width="490" src="https://github-readme-stats-bek77g.vercel.app/api?show_bg=1&username=bek77g&count_private=true&include_all_commits=true&hide=issues&theme=buefy" alt="« bek77g | Stats »" />
     <!-- <img align="left" width="37%" src="https://github-readme-stats-bek77g.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact" alt="bek77g | Languages" />
     <img align="center" width="47%" src="https://github-readme-stats-bek77g.vercel.app/api?show_bg=1&username=bek77g" alt="bek77g | Stats" /> -->
-    <img src="https://github.com/bek77g/bek77g/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributors" width="100%"/>
+    <!-- <img src="https://github.com/bek77g/bek77g/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributors" width="100%"/> -->
 </details>
 
 <details>
