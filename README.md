@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">It's me, Beknur Zheenkulov on GitHub!✨</h1>
 <h3 align="center">My name is Beknur and I am a software engineer!<br>
-From Kyrgyzstan❤️</h3>
+From Kyrgyzstan💫</h3>
 
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
@@ -93,9 +93,9 @@ From Kyrgyzstan❤️</h3>
 
 ### 📊 Stats:
 
-<p>
-<img align="center" width="336" src="https://github-readme-stats-bek77g.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,css,scss&theme=tokyonight&rank_icon" alt="« bek77g | Languages »" style="padding-right: 0"/>
-<img align="center" width="490" src="https://github-readme-stats-bek77g.vercel.app/api?show_bg=1&username=bek77g&count_private=true&include_all_commits=true&hide=issues&theme=tokyonight&rank_icon" alt="« bek77g | Stats »" />
+<p align="center">
+<img align="center" width="40%" src="https://github-readme-stats-bek77g.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,css,scss&theme=tokyonight&rank_icon" alt="« bek77g | Languages »" style="padding-right: 0"/>
+<img align="center" width="58.3%" src="https://github-readme-stats-bek77g.vercel.app/api?show_bg=1&username=bek77g&count_private=true&include_all_commits=true&hide=issues&theme=tokyonight&rank_icon" alt="« bek77g | Stats »" />
 <!-- <img align="left" width="37%" src="https://github-readme-stats-bek77g.vercel.app/api/top-langs?username=bek77g&show_icons=true&locale=en&layout=compact" alt="bek77g | Languages" />
     <img align="center" width="47%" src="https://github-readme-stats-bek77g.vercel.app/api?show_bg=1&username=bek77g" alt="bek77g | Stats" /> -->
 <!-- <img src="https://github.com/bek77g/bek77g/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributors" width="100%"/> -->
